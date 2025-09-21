@@ -8,7 +8,7 @@ This document details the steps followed to complete the setup in Databricks.
 > The steps below are done in **Azure**.
 
 ## Step 1: Creating an Azure Account
-You should note that Databricks runs on Azure. This means that you should first create an account on Azure. To do that, follow the link below:
+You should note that Databricks runs on Azure. This means that you should first create an Azure account. To do that, follow the link below:
 * https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account
 
 After creating your account, access the Azure Portal to manage your resources.
@@ -49,7 +49,7 @@ This is done under your storage account. Proceed as follows:
 * Confirm that the directory structure is correctly created and accessible.
 
 
-When all the above are completed, you can now launch your workspace.
+Once all the above steps are completed, you can launch your workspace.
 * Go to Home -> Resource
 * Find the Databricks workspace you created earlier.
 * Click on `Launch Workspace`.
@@ -74,7 +74,7 @@ In Databricks,
 > This is to avoid tremendous billing on your Azure account.
 
 ## Step 2: Creating a Folder and Running Your First Notebook
-* On the top right of your screen, click on `Create` and select `Folder`. Give it a name and create it.
+* On the top right of your screen, click on `Create` and select `Folder`. Name and create it.
 * Load a sample data.
 * Select the folder you just created. Click again on Create and select `Notebook`. 
 * Create a notebook and give it a name.
