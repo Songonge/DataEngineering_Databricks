@@ -13,7 +13,7 @@ You should note that Databricks runs on Azure. This means that you should first 
 
 After creating your account, access the Azure Portal to manage your resources.
 
-## Step 2: Creating a Resource Group
+## Step 2: Creating a Resource Account
 * Search for `resource group` in the search bar. 
 * Select it and click on Create. 
 * Give it a meaningful name
