@@ -13,7 +13,7 @@ You should note that Databricks runs on Azure. This means that you should first 
 
 After creating your account, access the Azure Portal to manage your resources.
 
-## Step 2: Creating a Resource Account
+## Step 2: Creating a Resource Group
 * Search for `resource group` in the search bar. 
 * Select it and click on Create. 
 * Give it a meaningful name
@@ -31,9 +31,9 @@ In the Azure Portal,
 > [!NOTE]
 > Whenever asked for a region, you should input the same region you used while creating your workspace.
 
-### Step 4: Creating a Storage Group
+### Step 4: Creating a Storage Account
 * Select the resource group.
-* Give a name to the storage group. This should be unique and in lowercase.
+* Give a name to the storage Account. This should be unique and in lowercase.
 * Select Standard
 * Tick `Enable hierarchical namespace`.
 * Leave the rest as is.
